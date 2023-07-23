@@ -1,0 +1,14 @@
+{
+  "results": [],
+  "context": {
+    "geo_bounds": {
+      "circle": {
+        "center": {
+          "latitude": 43.685924,
+          "longitude": -79.376304
+        },
+        "radius": 1000
+      }
+    }
+  }
+}
