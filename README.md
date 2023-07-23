@@ -14,6 +14,8 @@ BikeShare Network and connected the information about bike stations to Points of
    ### I parsed through the JSON object into multiple Pandas dataframes.
    ### I joined the dataframes together.
    ### Created visualizations using Python.
+   ### Tested my hypothesis that higher review count would result in higer rating for YELP POIs
+   ### Created Linear regression model
 
 
 ## Results
