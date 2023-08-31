@@ -1,4 +1,4 @@
-# Final-Project-Statistical-Modelling-with-Python
+# Statistical-Modelling-with-Python
 
 ## Project/Goals
 The goal of this project is to use Python skills to extract information from multiple APIs and manipulate the data. I Chose to work with Citybikes API to work on Toronto's
